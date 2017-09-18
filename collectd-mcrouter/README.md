@@ -25,7 +25,6 @@ More information on stats list [here](https://github.com/facebook/mcrouter/wiki/
 <Plugin python>
         # mcrouter_stats.py is at "/usr/share/collectd/collectd-mcrouter/mcrouter_stats.py"
         ModulePath "/usr/share/collectd/collectd-mcrouter"
-        LogTraces true
         Interactive false
         Import "mcrouter_stats"
         <Module "mcrouter_stats">

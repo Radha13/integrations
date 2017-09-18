@@ -6,7 +6,7 @@ McRouter automatically creates and updates several files useful to monitor it's 
 More information on stats list [here](https://github.com/facebook/mcrouter/wiki/Stats-list).
 
 This directory consolidates all the metadata associated with the McRouter collectd plugin. 
-The relevant code for the plugin can be found [here](https://github.com/Radha13/collectd-mcrouter)
+The relevant code for the plugin can be found [here](https://github.com/Radha13/collectd-mcrouter).
 
 ## Requirements
 |Software | version|
